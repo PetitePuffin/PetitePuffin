@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @PetitePuffin
+- 👋 Hi, I’m @PetitePuffin(Tarun) a 18 year old
 - 👀 I’m interested in Maths and Ethical Hacking
 - 🌱 I’m currently learning Programming And Ethical Hacking
 - 💞️ I’m looking to collaborate on Programming Projects and Hacking Projects/Bug Bounty
